@@ -72,35 +72,35 @@ body {
 }
 
 #Shanghai {
-    background-image: url("shanghai.jpeg");
+    background-image: url("shanghai.gif");
     background-size: cover;
     color: white;
     border-radius: 20%;
 }
 
 #NewYork {
-    background-image: url("newyork.jpeg");
+    background-image: url("newyork.gif");
     background-size: cover;
     color: white;
     border-radius: 20%;
 }
 
 #Berlin {
-    background-image: url("berlin.jpeg");
+    background-image: url("berlin.gif");
     background-size: cover;
     color: white;
     border-radius: 20%;
 }
 
 #Sydney {
-    background-image: url("sydney.jpeg");
+    background-image: url("sydney.gif");
     background-size: cover;
     color: white;
     border-radius: 20%;
 }
 
 #MexicoCity {
-    background-image: url("mexicocity.jpeg");
+    background-image: url("mexicocity.gif");
     background-size: cover;
     color: white;
     border-radius: 20%;

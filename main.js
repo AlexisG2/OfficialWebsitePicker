@@ -5,12 +5,12 @@ document.getElementById('Sydney').onclick = SydneyPic
 document.getElementById('MexicoCity').onclick = MexicoCityPic
 
 function ShanghaiPic () {
-    document.querySelector('body').style.backgroundImage = "url(shanghai.jpeg)"
+    document.querySelector('body').style.backgroundImage = "url(shanghai.gif)"
     document.querySelector('body').style.color = 'white'
 }
 
 function NewYorkPic () {
-    document.querySelector('body').style.backgroundImage = "url(newyork.jpeg)"
+    document.querySelector('body').style.backgroundImage = "url(newyork.gif)"
     document.querySelector('body').style.color = 'white'
 }
 
@@ -20,11 +20,11 @@ function BerlinPic () {
 }
 
 function SydneyPic () {
-    document.querySelector('body').style.backgroundImage = "url(sydney.jpeg)"
+    document.querySelector('body').style.backgroundImage = "url(sydney.gif)"
     document.querySelector('body').style.color = 'white'
 }
 
 function MexicoCityPic () {
-    document.querySelector('body').style.backgroundImage = "url(mexicocity.jpeg)"
+    document.querySelector('body').style.backgroundImage = "url(mexicocity.gif)"
     document.querySelector('body').style.backgroundImage = 'white'
 }
